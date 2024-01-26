@@ -1,4 +1,4 @@
-main.o: C:/stuff/dev/nds/Normalmappingds/source/main.c \
+main.o: C:/stuff/dev/nds/NormalmappingDS/source/main.c \
  C:/devkitPro/libnds/include/nds.h \
  C:/devkitPro/libnds/include/nds/libversion.h \
  C:/devkitPro/libnds/include/nds/ndstypes.h \

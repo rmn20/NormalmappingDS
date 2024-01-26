@@ -3698,7 +3698,7 @@ LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/12.1.0/../../../../arm-
 END GROUP
 LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/12.1.0/crtend.o
 LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/12.1.0/crtn.o
-OUTPUT(C:/stuff/dev/nds/Normalmappingds/dist/nmap.elf elf32-littlearm)
+OUTPUT(C:/stuff/dev/nds/NormalmappingDS/dist/nmap.elf elf32-littlearm)
 LOAD linker stubs
 
 .debug_loclists

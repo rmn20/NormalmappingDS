@@ -290,8 +290,8 @@ int main() {
 	//Print info
 	printf("Radiosity Normal Mapping on DS\nBy \e[46mgithub.com/rmn20\e[47m\n\n");
 	
-	printf("DPAD - Move white light source\n(Hold R to move up/down)\n");
-	printf("ABXY - Move red light source\n(Hold L to move up/down)\n\n");
+	printf("DPAD - Move white light source\n(Hold L to move up/down)\n");
+	printf("ABXY - Move red light source\n(Hold R to move up/down)\n\n");
 	printf("Select - Toggle normal mapping\n");
 	
 	if(!nitroFSInit(NULL)) return 1;
